@@ -1,0 +1,15 @@
+[remap]
+
+importer="dialogue_manager_compiler_13"
+type="Resource"
+uid="uid://chiynv1kgcv8m"
+path="res://.godot/imported/mary.dialogue-fe22c790941f7bbd245b959b1dde5eb0.tres"
+
+[deps]
+
+source_file="res://Dialogue/conversations/mary.dialogue"
+dest_files=["res://.godot/imported/mary.dialogue-fe22c790941f7bbd245b959b1dde5eb0.tres"]
+
+[params]
+
+defaults=true

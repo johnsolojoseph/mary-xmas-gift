@@ -1,0 +1,7 @@
+~ start
+Mary: This seems to be the Piplup gift.
+Mary: Should I read the note?
+- Yes
+	John: "I got your favorite pokemon in a pokeball biome. Hope Piplup feels at home."
+- No => END
+=> END

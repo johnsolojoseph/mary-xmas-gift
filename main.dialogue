@@ -1,0 +1,34 @@
+~ piplup
+Mary: This seems to be the Piplup gift.
+Mary: Should I read the note?
+- Yes
+	John: "I got your favorite pokemon in a pokeball biome. Hope Piplup feels at home."
+- No => END
+=> END
+
+~ frieren
+Mary: Oh, the Frieren gift!
+Mary: Should I read the note?
+- Yes
+	John: "I loved couple cosplaying as Himmel and Frieren at Kumoricon with you. Hope this reminds you of all the good times we had."
+- No => END
+=> END
+
+~ gimbal
+Mary: A gimbal?
+Mary: Should I read the note?
+- Yes
+	John: "You mentioned in one of your vlogs that you needed a gimbal. Hope you like it!"
+- No => END
+=> END
+
+~ photo
+Mary: Whoa, a portable photo printer?
+Mary: Should I read the note?
+- Yes
+	John: "I really love taking photos with you and looking at them. Now we can print them on the go!"
+- No => END
+=> END
+
+~ serena
+Mary: What gift is this? There's no note.

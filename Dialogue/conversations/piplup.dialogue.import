@@ -1,0 +1,15 @@
+[remap]
+
+importer="dialogue_manager_compiler_13"
+type="Resource"
+uid="uid://bto7kuttjkuvk"
+path="res://.godot/imported/piplup.dialogue-a168dbc3ab2f6c4118543a8e171311f3.tres"
+
+[deps]
+
+source_file="res://Dialogue/conversations/piplup.dialogue"
+dest_files=["res://.godot/imported/piplup.dialogue-a168dbc3ab2f6c4118543a8e171311f3.tres"]
+
+[params]
+
+defaults=true
