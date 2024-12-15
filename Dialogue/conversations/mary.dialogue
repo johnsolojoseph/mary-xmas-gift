@@ -3,7 +3,7 @@ Mary: This seems to be the Piplup gift.
 Mary: Should I read the note?
 - Yes
 	John: "I got your favorite pokemon in a pokeball biome."
-	John: "Hope Piplup feels at home.
+	John: "Hope Piplup feels at home with you."
 - No => END
 => END
 
@@ -12,7 +12,7 @@ Mary: Oh, the Frieren gift!
 Mary: Should I read the note?
 - Yes
 	John: "I loved couple cosplaying with you."
-	John: "Good times."
+	John: "I hope this reminds you of all the good times we had."
 - No => END
 => END
 
@@ -34,7 +34,19 @@ Mary: Should I read the note?
 - No => END
 => END
 
-~ serena
+~ wand
 Mary: What gift is this? 
-Mary: There's no note.
+Mary: There's no note and I can't open it.
+=> END
+
+~ serena
+Sailor Moon: Hey there! It’s me, Sailor Moon, your champion of love, justice, and—ooh, surprise presents!
+Sailor Moon: Before you can open my gift, I’ve got an extra magical challenge for you!
+Sailor Moon: You’ve gotta answer some super fun trivia questions! Don’t worry, they’re not about calculus or anything scary like that. I promise!
+Sailor Moon: Are you ready?
+- Yes
+	Serena: Yay! Let’s do this!
+- No 
+	Sailor Moon: Oh no! Don’t tell me I've mistaken you for someone else! 
+	Sailor Moon: Sorry for the mix-up. Luna’s gonna roast me for this! 
 => END
