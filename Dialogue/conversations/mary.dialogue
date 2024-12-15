@@ -60,14 +60,18 @@ Sailor Moon: Are you ready?
 	=> END
 Sailor Moon: Question one: Where did you ask John out? 
 - Communication Hill
-	Sailor Moon: .
+	Sailor Moon: I don't think that's right.. 
+	=> END
 - Eastridge 
-	Sailor Moon: 
+	Sailor Moon: Ah, unfortunately this isn't the answer.
+	Sailor Moon: Do you miss Round 1 or something?
+	=> END
 - Sierra Rd
 	Sailor Moon: You got it right! You're so amazing, Mary. 
 	Sailor Moon: I'm sure Luna would be so impressed right now.
 - Multnomah Falls 
-	Sailor Moon: .
+	Sailor Moon: Beautiful place but that's not the answer. 
+	Sailor Moon: I've always wanted to visit though. Please take me next time!
 	
 Sailor Moon: Now let's move on to the next question. 
 Sailor Moon: Question two: Which anime convention did you and John go to?
@@ -76,7 +80,7 @@ Sailor Moon: Question two: Which anime convention did you and John go to?
 	Sailor Moon: But I'm sure John would love to go with you next year! 
 	=> END
 - Kumoricon 
-	Sailor Moon: DING DING DING DING! Correct! You're getting all of these right.
+	Sailor Moon: DING, DING, DING! Correct! You're getting all of these right.
 	Sailor Moon: Are you sure you're secretly not a Sailor Scout?! 
 - Fanime Con
 	Sailor Moon: You two sadly couldn't make it this year.
@@ -84,13 +88,21 @@ Sailor Moon: Question two: Which anime convention did you and John go to?
 - SacAnime 
 	Sailor Moon: I don't think you two ever talked about going here.
 	=> END
-	
-- Yes
-	Sailor Moon: .
-- Yes
-	Sailor Moon: .
-- Yes
-	Sailor Moon: .
-- Yes
-	Sailor Moon: .
+
+Sailor Moon: We've reached the final stretch! You got this, Mary.
+Sailor Moon: Last Question: Which song best describes you two? 
+- Can't Help Falling in Love by Kina Grannis 
+	Sailor Moon: Yay! That is correct.
+- Love You With All My Heart by Crush
+	Sailor Moon: This songs reminds him of when you two watched your first kdrama together.
+	Sailor Moon: Unfortunately, this isn't the answer. Sorry. 
+	Sailor Moon: On a happier note, I really love Queen of Tears!
+- First Love (Cover) by Chaewon 
+	Sailor Moon: Oh, sorry. I think John likes the original version better too.
+	=> END
+- Love Sight by TOMORROW X TOGETHER
+	Sailor Moon: This is the song presented on the Spotify Blend. 
+	Sailor Moon: John doesn't think this is the answer, but I do! 
+	Sailor Moon: However, I have to open the gift after you choose what John thinks is the answer. 
+	=> END
 => END
