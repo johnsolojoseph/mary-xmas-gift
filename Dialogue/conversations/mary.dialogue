@@ -41,11 +41,19 @@ Mary: There's no note and I can't open it.
 
 ~ serena
 Sailor Moon: Hey there! It’s me, Sailor Moon, your champion of love, justice, and—ooh, surprise presents!
-Sailor Moon: Before you can open my gift, I’ve got an extra magical challenge for you!
-Sailor Moon: You’ve gotta answer some super fun trivia questions! Don’t worry, they’re not about calculus or anything scary like that. I promise!
+Sailor Moon: Are you Mary?
+- Yes
+	Sailor Moon: Oh my gosh, I can't believe I'm finally meeting you in person!
+- No 
+	Sailor Moon: Oh no! Don’t tell me I've mistaken you for someone else! 
+	Sailor Moon: Sorry for the mix-up. Luna’s gonna roast me for this! 
+	=> END
+Sailor Moon: Before you can open John's last gift, I’ve got an extra magical challenge for you!
+Sailor Moon: You’ve gotta answer some super fun trivia questions!
+Sailor Moon: Don’t worry, they’re not about calculus or anything scary like that. I promise!
 Sailor Moon: Are you ready?
 - Yes
-	Serena: Yay! Let’s do this!
+	Sailor Moon: Yay! Let’s do this!
 - No 
 	Sailor Moon: Oh no! Don’t tell me I've mistaken you for someone else! 
 	Sailor Moon: Sorry for the mix-up. Luna’s gonna roast me for this! 
