@@ -40,21 +40,57 @@ Mary: There's no note and I can't open it.
 => END
 
 ~ serena
-Sailor Moon: Hey there! It’s me, Sailor Moon, your champion of love, justice, and—ooh, surprise presents!
+Sailor Moon: Hi there! It’s me, Sailor Moon, your champion of love, justice, and—ooh, surprise presents!
 Sailor Moon: Are you Mary?
 - Yes
-	Sailor Moon: Oh my gosh, I can't believe I'm finally meeting you in person!
+	Sailor Moon: Oh my gosh, I can't believe I'm finally meeting the Mary Tran in person!
 - No 
 	Sailor Moon: Oh no! Don’t tell me I've mistaken you for someone else! 
 	Sailor Moon: Sorry for the mix-up. Luna’s gonna roast me for this! 
 	=> END
-Sailor Moon: Before you can open John's last gift, I’ve got an extra magical challenge for you!
+Sailor Moon: If you want to open John's last gift, I’ve got an extra magical challenge for you!
 Sailor Moon: You’ve gotta answer some super fun trivia questions!
 Sailor Moon: Don’t worry, they’re not about calculus or anything scary like that. I promise!
 Sailor Moon: Are you ready?
 - Yes
 	Sailor Moon: Yay! Let’s do this!
 - No 
-	Sailor Moon: Oh no! Don’t tell me I've mistaken you for someone else! 
-	Sailor Moon: Sorry for the mix-up. Luna’s gonna roast me for this! 
+	Sailor Moon: You... you don’t want to answer my trivia questions?!
+	Serena: But... but I worked so hard on them!
+	=> END
+Sailor Moon: Question one: Where did you ask John out? 
+- Communication Hill
+	Sailor Moon: .
+- Eastridge 
+	Sailor Moon: 
+- Sierra Rd
+	Sailor Moon: You got it right! You're so amazing, Mary. 
+	Sailor Moon: I'm sure Luna would be so impressed right now.
+- Multnomah Falls 
+	Sailor Moon: .
+	
+Sailor Moon: Now let's move on to the next question. 
+Sailor Moon: Question two: Which anime convention did you and John go to?
+- Anime Expo
+	Sailor Moon: Uhmm, not quite.
+	Sailor Moon: But I'm sure John would love to go with you next year! 
+	=> END
+- Kumoricon 
+	Sailor Moon: DING DING DING DING! Correct! You're getting all of these right.
+	Sailor Moon: Are you sure you're secretly not a Sailor Scout?! 
+- Fanime Con
+	Sailor Moon: You two sadly couldn't make it this year.
+	=> END
+- SacAnime 
+	Sailor Moon: I don't think you two ever talked about going here.
+	=> END
+	
+- Yes
+	Sailor Moon: .
+- Yes
+	Sailor Moon: .
+- Yes
+	Sailor Moon: .
+- Yes
+	Sailor Moon: .
 => END
