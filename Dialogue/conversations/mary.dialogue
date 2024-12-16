@@ -43,14 +43,14 @@ Mary: There's no note and I can't open it.
 Sailor Moon: Hi there! It’s me, Sailor Moon, your champion of love, justice, and—ooh, surprise presents!
 Sailor Moon: Are you Mary?
 - Yes
-	Sailor Moon: Oh my gosh, I can't believe I'm finally meeting the Mary Tran in person!
+	Sailor Moon: Oh my gosh, I can't believe I'm finally meeting you in person! You're so pretty.
 - No 
 	Sailor Moon: Oh no! Don’t tell me I've mistaken you for someone else! 
 	Sailor Moon: Sorry for the mix-up. Luna’s gonna roast me for this! 
 	=> END
-Sailor Moon: If you want to open John's last gift, I’ve got an extra magical challenge for you!
-Sailor Moon: You’ve gotta answer some super fun trivia questions!
-Sailor Moon: Don’t worry, they’re not about calculus or anything scary like that. I promise!
+Sailor Moon: If you want to open John's last gift, I've got an extra magical challenge for you!
+Sailor Moon: You gotta answer some super fun trivia questions!
+Sailor Moon: Don’t worry, they’re not about partial differentials or anything scary like that. I promise!
 Sailor Moon: Are you ready?
 - Yes
 	Sailor Moon: Yay! Let’s do this!
@@ -60,7 +60,7 @@ Sailor Moon: Are you ready?
 	=> END
 Sailor Moon: Question one: Where did you ask John out? 
 - Communication Hill
-	Sailor Moon: I don't think that's right.. 
+	Sailor Moon: Sorry, I don't think that's right.. 
 	=> END
 - Eastridge 
 	Sailor Moon: Ah, unfortunately this isn't the answer.
@@ -70,39 +70,50 @@ Sailor Moon: Question one: Where did you ask John out?
 	Sailor Moon: You got it right! You're so amazing, Mary. 
 	Sailor Moon: I'm sure Luna would be so impressed right now.
 - Multnomah Falls 
-	Sailor Moon: Beautiful place but that's not the answer. 
-	Sailor Moon: I've always wanted to visit though. Please take me next time!
+	Sailor Moon: Sorry, I don't think that's right.. 
+	Sailor Moon: Beautiful place though. Please take me next time!
 	=> END
-Sailor Moon: Now let's move on to the next question. 
+Sailor Moon: Okay, now let's move on to the next question. 
 Sailor Moon: Question two: Which anime convention did you and John go to?
 - Anime Expo
-	Sailor Moon: Uhmm, not quite.
+	Sailor Moon: Sorry, I don't think that's right..
 	Sailor Moon: But I'm sure John would love to go with you next year! 
 	=> END
 - Kumoricon 
 	Sailor Moon: DING, DING, DING! Correct! You're getting all of these right.
 	Sailor Moon: Are you sure you're secretly not a Sailor Scout?! 
 - Fanime Con
-	Sailor Moon: You two sadly couldn't make it this year.
+	Sailor Moon: Sorry, I don't think that's right..
+	Sailor Moon: But hopefully, you two can make it next year!
+	Sailor Moon: I wonder what you two will cosplay as. Psst... me and Tuxedo Mask.
 	=> END
 - SacAnime 
-	Sailor Moon: I don't think you two ever talked about going here.
+	Sailor Moon: Sorry, I don't think that's right..
+	Sailor Moon: What even is SacAnime?
 	=> END
 
-Sailor Moon: We've reached the final stretch! You got this, Mary.
-Sailor Moon: Last Question: Which song best describes you two? 
+Sailor Moon: Okay, we've reached the final stretch! You got this, Mary!
+Sailor Moon: Last Question: Which song best describes your relationship with John? 
 - Can't Help Falling in Love by Kina Grannis 
-	Sailor Moon: Yay! That is correct.
+	Sailor Moon: Yay! That is correct!
 - Love You With All My Heart by Crush
-	Sailor Moon: This songs reminds him of when you two watched your first kdrama together.
-	Sailor Moon: Unfortunately, this isn't the answer. Sorry. 
-	Sailor Moon: On a happier note, I really love Queen of Tears!
-- First Love (Cover) by Chaewon 
-	Sailor Moon: Oh, sorry. I think John likes the original version better too.
+	Sailor Moon: This song reminds me of when you two watched Queen of Tears!
+	Sailor Moon: Unfortunately, this isn't the right answer. Sorry. 
+- First Love (Cover) by Kim Chaewon
+	Sailor Moon: Oh, sorry. This isn't right.  
+	Sailor Moon: I think John likes the original version better.
 	=> END
 - Love Sight by TOMORROW X TOGETHER
-	Sailor Moon: This is the song presented on the Spotify Blend. 
-	Sailor Moon: John doesn't think this is the answer, but I do! 
-	Sailor Moon: However, I have to open the gift after you choose what John thinks is the answer. 
+	Sailor Moon: This is the song from the Spotify Blend!
+	Sailor Moon: But this unfortunately isn't the answer. Please try again.
 	=> END
+
+Sailor Moon: I knew you could do it! You’re a trivia superstar!
+Sailor Moon: I’m so jealous. You’re smart, cool, and you aced my questions like it was nothing.
+Sailor Moon: If you were a Sailor Scout, you’d probably be the one keeping the rest of us from accidentally blowing something up...
+Sailor Moon: Anyways, the moment you've been waiting for!
+Sailor Moon: ... 
+Sailor Moon: Ta-da! I've unlocked your gift! You've totally earned it. 
+Sailor Moon: But be careful—it might be full of moon magic... or snacks. Hopefully snacks!
+
 => END
