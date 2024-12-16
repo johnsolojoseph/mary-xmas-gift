@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://djmbwv8jr6yxu"
+path="res://.godot/imported/Utada Hikaru - First Love (8-bit) trimmed.mp3-2c272e6e16679bc17f751121500a8235.mp3str"
+
+[deps]
+
+source_file="res://music/Utada Hikaru - First Love (8-bit) trimmed.mp3"
+dest_files=["res://.godot/imported/Utada Hikaru - First Love (8-bit) trimmed.mp3-2c272e6e16679bc17f751121500a8235.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4
